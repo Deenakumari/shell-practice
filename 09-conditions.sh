@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMBER= $1
+NUMBER=$1
 
 # -gt ---> greter than
 # -lt ---> less than
