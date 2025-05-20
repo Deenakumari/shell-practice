@@ -1,5 +1,7 @@
 #!/bin/bash
 
+NUMBER= $1
+
 # -gt ---> greter than
 # -lt ---> less than
 # -eq ---> equal
