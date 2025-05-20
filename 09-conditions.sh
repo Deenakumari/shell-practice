@@ -1,9 +1,9 @@
 #!/bin/bash
 
--gt ---> greter than
--lt ---> less than
--eq ---> equal
--ne ---> not equal
+# -gt ---> greter than
+# -lt ---> less than
+# -eq ---> equal
+# -ne ---> not equal
 
 if [ $NUMBER -lt 10 ]
 then 
