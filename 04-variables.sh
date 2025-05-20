@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=Deena #there should be no space before nad after =
-PERSON2=Naga
+PERSON1=$1
+PERSON2=$2
 
 echo "$PERSON1: Hey $PERSON2, how are you ?"
 echo "$PERSON2: Hello $PERSON1, i am fine hwhat about you"
